@@ -1,0 +1,4 @@
+RepeatOnCompletion boolean
+Trigger_Button number
+Trigger_Delay number
+Trigger_Timeline string
